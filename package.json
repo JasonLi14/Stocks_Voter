@@ -1,0 +1,26 @@
+{
+  "name": "stocks_voter",
+  "version": "1.0.0",
+  "description": "This program will allow users to vote on which stocks they think will perform well, which stocks they think will not perform well, and compile how accurate they are.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonLi14/Stocks_Voter.git"
+  },
+  "author": "Jason Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonLi14/Stocks_Voter/issues"
+  },
+  "homepage": "https://github.com/JasonLi14/Stocks_Voter#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "django-vite-plugin": "^4.0.4",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.10"
+  }
+}
